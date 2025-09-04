@@ -27,17 +27,6 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)  
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internet-of-things&logoColor=white)  
 
----
-
-## 📊 GitHub Stats  
-
-![Achyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=achyut02&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achyut02&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achyut02&theme=tokyonight)  
-
----
 
 ## 🌐 Connect with Me  
 
